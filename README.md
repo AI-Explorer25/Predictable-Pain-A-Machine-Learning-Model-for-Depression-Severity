@@ -35,10 +35,10 @@ This project emphasises careful leakage testing, controlled modeling comparisons
 
 ### Project Structure
 ```text
-
 ├── data/  
 │   └── Mental Health Classification (raw).csv  # Raw dataset  
 ├── notebook/  
 │   └── depression-ml.ipynb  # Main analysis notebook  
 ├── .gitignore  # Ignored files (e.g., checkpoints)  
 ├── README.md  # Project documentation
+
