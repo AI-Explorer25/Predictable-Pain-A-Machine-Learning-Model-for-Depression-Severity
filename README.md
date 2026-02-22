@@ -24,9 +24,9 @@ To isolate and compare the predictive signal of different feature categories whi
 
 ## Key Findings
 
-- Behavioral features retained the strongest predictive signal (Weighted F1 ≈ 0.694)
+- Behavioral features retained the strongest predictive signal (Weighted F1 ≈ 0.693)
 - Structural features showed moderate predictive power (≈ 0.352)
-- Demographic features contributed minimally in isolation (≈ 0.030)
+- Demographic features contributed minimally in isolation (≈ 0.03)
 - Initial 100% accuracy revealed leakage and high feature-target correlation
 
 ## Repository Structure
