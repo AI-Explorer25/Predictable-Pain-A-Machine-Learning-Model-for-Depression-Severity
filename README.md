@@ -29,7 +29,8 @@ To isolate and compare the predictive signal of different feature categories whi
 - Demographic features contributed minimally in isolation (≈ 0.03)
 - Initial 100% accuracy revealed leakage and high feature-target correlation
 
-## Repository Structure
+### Project Structure
+```text
 
 ├── data/  
 │   └── Mental Health Classification (raw).csv  # Raw dataset  
