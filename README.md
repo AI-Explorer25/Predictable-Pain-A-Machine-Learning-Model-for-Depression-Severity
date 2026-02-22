@@ -31,10 +31,13 @@ To isolate and compare the predictive signal of different feature categories whi
 
 ## Repository Structure
 
-- `notebook.ipynb` — full analysis and modeling workflow
-- `data/` — dataset 
-- `README.md`
-- `.gitignore`
+├── data/  
+│   └── Mental Health Classification (raw).csv  # Raw dataset  
+├── notebook/  
+│   └── depression-ml.ipynb  # Main analysis notebook  
+├── .gitignore  # Ignored files (e.g., checkpoints)  
+├── README.md  # Project documentation
+
 
 ## Notes
 
