@@ -29,6 +29,10 @@ To isolate and compare the predictive signal of different feature categories whi
 - Demographic features contributed minimally in isolation (≈ 0.03)
 - Initial 100% accuracy revealed leakage and high feature-target correlation
 
+## Notes
+
+This project emphasises careful leakage testing, controlled modeling comparisons, and interpretative caution in predictive mental health modeling.
+
 ### Project Structure
 ```text
 
@@ -38,8 +42,3 @@ To isolate and compare the predictive signal of different feature categories whi
 │   └── depression-ml.ipynb  # Main analysis notebook  
 ├── .gitignore  # Ignored files (e.g., checkpoints)  
 ├── README.md  # Project documentation
-
-
-## Notes
-
-This project emphasises careful leakage testing, controlled modeling comparisons, and interpretative caution in predictive mental health modeling.
